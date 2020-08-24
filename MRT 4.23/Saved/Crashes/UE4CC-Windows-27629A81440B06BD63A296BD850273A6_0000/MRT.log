@@ -1,0 +1,1154 @@
+﻿Log file open, 09/22/19 03:46:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MRT
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.092970
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=vat0599 -epicuserid=b0250071157645d481bd70b960c80dd0 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.21-22.16.01:580][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.21-22.16.01:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:581][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.21-22.16.01:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.21-22.16.01:584][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.21-22.16.01:584][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.21-22.16.01:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.21-22.16.01:587][  0]LogHAL: Display: Platform has ~ 8 GB [8502808576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.21-22.16.01:587][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.21-22.16.01:588][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.21-22.16.01:588][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.21-22.16.01:589][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.21-22.16.01:590][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.21-22.16.01:590][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.21-22.16.01:590][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.21-22.16.01:590][  0]LogInit: Computer: LAPTOP-P90EASUC
+[2019.09.21-22.16.01:590][  0]LogInit: User: SrivatsavRaghu
+[2019.09.21-22.16.01:590][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.09.21-22.16.01:590][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.21-22.16.01:590][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.21-22.16.01:590][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.21-22.16.01:590][  0]LogMemory: Process Physical Memory: 99.52 MB used, 99.52 MB peak
+[2019.09.21-22.16.01:590][  0]LogMemory: Process Virtual Memory: 88.05 MB used, 88.05 MB peak
+[2019.09.21-22.16.01:590][  0]LogMemory: Physical Memory: 5991.95 MB used,  2116.96 MB free, 8108.91 MB total
+[2019.09.21-22.16.01:590][  0]LogMemory: Virtual Memory: 4653.94 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.21-22.16.01:594][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.21-22.16.01:630][  0]LogInit: Using OS detected language (en-US).
+[2019.09.21-22.16.01:630][  0]LogInit: Using OS detected locale (en-IN).
+[2019.09.21-22.16.01:631][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.21-22.16.01:848][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.21-22.16.01:906][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.21-22.16.01:906][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.21-22.16.02:187][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.21-22.16.02:187][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.21-22.16.02:248][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.09.21-22.16.02:248][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.09.21-22.16.02:473][  0]LogD3D11RHI:    1. 'Radeon(TM) 530' (Feature Level 11_0)
+[2019.09.21-22.16.02:473][  0]LogD3D11RHI:       4087/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.09.21-22.16.02:481][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.21-22.16.02:481][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.21-22.16.02:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.09.21-22.16.02:495][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.21-22.16.02:495][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.21-22.16.02:495][  0]LogWindows: EnumDisplayDevices:
+[2019.09.21-22.16.02:496][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.09.21-22.16.02:496][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.09.21-22.16.02:496][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.09.21-22.16.02:497][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.21-22.16.02:497][  0]LogD3D11RHI:     Adapter Name: Radeon(TM) 530
+[2019.09.21-22.16.02:497][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.21-22.16.02:497][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.21-22.16.02:497][  0]LogRHI: Texture pool is 2860 MB (70% of 4087 MB)
+[2019.09.21-22.16.02:600][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.21-22.16.02:617][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.09.21-22.16.03:400][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.21-22.16.03:412][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.21-22.16.03:425][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.21-22.16.03:435][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.21-22.16.03:446][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.21-22.16.03:457][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.21-22.16.03:468][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.21-22.16.03:479][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.21-22.16.03:485][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.21-22.16.03:520][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.21-22.16.03:522][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.21-22.16.03:543][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.21-22.16.03:543][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.21-22.16.03:560][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.21-22.16.03:560][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.21-22.16.03:568][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.21-22.16.03:576][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.21-22.16.03:584][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.21-22.16.03:593][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.21-22.16.03:626][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.21-22.16.03:626][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.21-22.16.03:626][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.21-22.16.03:642][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.21-22.16.03:714][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Intermediate/Shaders/WorkingDirectory/18036/).
+[2019.09.21-22.16.03:715][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Srivatsav Raghu/AppData/Local/Temp/UnrealShaderWorkingDir/E1A643EF4A3F9C0950898A8E3B21B01D/'.
+[2019.09.21-22.16.03:719][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.21-22.16.03:719][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.21-22.16.03:719][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.21-22.16.05:956][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/Srivatsav Raghu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Srivatsav Raghu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.21-22.16.06:035][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.21-22.16.06:049][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.21-22.16.06:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.21-22.16.06:050][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.21-22.16.06:052][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Srivatsav Raghu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.21-22.16.06:052][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.21-22.16.06:052][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.21-22.16.06:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.21-22.16.06:090][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.21-22.16.06:090][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.21-22.16.06:169][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2019.09.21-22.16.06:556][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.21-22.16.06:731][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.21-22.16.06:731][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.21-22.16.06:731][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.21-22.16.06:731][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.21-22.16.06:731][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.21-22.16.06:743][  0]LogNetVersion: MRT 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1782298850)
+[2019.09.21-22.16.07:256][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.066089 seconds
+[2019.09.21-22.16.07:266][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.21-22.16.07:266][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.21-22.16.07:266][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.21-22.16.08:268][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.21-22.16.08:271][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.21-22.16.08:337][  0]SourceControl: Source control is disabled
+[2019.09.21-22.16.08:337][  0]SourceControl: Source control is disabled
+[2019.09.21-22.16.08:339][  0]SourceControl: Source control is disabled
+[2019.09.21-22.16.08:340][  0]SourceControl: Source control is disabled
+[2019.09.21-22.16.08:351][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.21-22.16.08:352][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.21-22.16.08:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.21-22.16.08:684][  0]LogOcInput: OculusInput pre-init called
+[2019.09.21-22.16.08:694][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.21-22.16.08:694][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.21-22.16.08:794][  0]LogEngine: Initializing Engine...
+[2019.09.21-22.16.08:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.21-22.16.08:798][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.21-22.16.09:154][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.21-22.16.09:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.21-22.16.09:224][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-22.16.09:484][  0]LogInit: FAudioDevice initialized.
+[2019.09.21-22.16.09:484][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.21-22.16.09:807][  0]LogDerivedDataCache: Saved boot cache 0.32s 73MB C:/Users/Srivatsav Raghu/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.21-22.16.09:813][  0]LogInit: Texture streaming: Enabled
+[2019.09.21-22.16.09:909][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.21-22.16.09:970][  0]LogInit: Transaction tracking system initialized
+[2019.09.21-22.16.10:028][  0]BlueprintLog: New page: Editor Load
+[2019.09.21-22.16.10:159][  0]LocalizationService: Localization service is disabled
+[2019.09.21-22.16.10:268][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.21-22.16.10:270][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.09.21-22.16.11:955][  0]LogFileCache: Scanning file cache for directory 'F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Content/' took 0.01s
+[2019.09.21-22.16.11:955][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.21-22.16.11:955][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.21-22.16.12:372][  0]SourceControl: Source control is disabled
+[2019.09.21-22.16.12:372][  0]Cmd: MAP LOAD FILE="F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Content/MRT/Maps/LevelDemo_Sunny.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.21-22.16.12:372][  0]LightingResults: New page: Lighting Build
+[2019.09.21-22.16.12:377][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-22.16.12:378][  0]MapCheck: New page: Map Check
+[2019.09.21-22.16.12:378][  0]LightingResults: New page: Lighting Build
+[2019.09.21-22.16.12:403][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.09.21-22.16.39:176][  0]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-22.16.39:829][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_110803
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.40:214][  0]LogScript: Warning: Script Msg: Attempted to access index 29 from array 'RoadSegments' of length 29 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.40:449][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_119278
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.40:504][  0]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'RoadSegments' of length 5 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.40:535][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_135480
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.40:720][  0]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoadSegments' of length 9 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.40:803][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_144194
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.41:090][  0]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'RoadSegments' of length 14 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.41:539][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_144195
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.42:094][  0]LogScript: Warning: Script Msg: Attempted to access index 38 from array 'RoadSegments' of length 38 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.44:112][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_24233
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.44:817][  0]LogScript: Warning: Script Msg: Attempted to access index 37 from array 'RoadSegments' of length 37 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.49:434][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_33189
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.49:816][  0]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'RoadSegments' of length 25 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.50:499][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_39266
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.51:020][  0]LogScript: Warning: Script Msg: Attempted to access index 45 from array 'RoadSegments' of length 45 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.51:673][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_55101
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.51:910][  0]LogScript: Warning: Script Msg: Attempted to access index 25 from array 'RoadSegments' of length 25 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.52:004][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_65549
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.52:085][  0]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'RoadSegments' of length 7 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.52:127][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_69536
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.52:327][  0]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'RoadSegments' of length 23 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.52:423][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_70955
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.52:598][  0]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'RoadSegments' of length 13 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.52:684][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_77692
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.52:805][  0]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'RoadSegments' of length 14 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.53:255][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_23
+	BP_ModularRoadTool_C /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.BP_ModularRoadTool_C_99822
+	Function /Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C:UserConstructionScript:010A
+[2019.09.21-22.16.54:067][  0]LogScript: Warning: Script Msg: Attempted to access index 51 from array 'RoadSegments' of length 51 in '/Game/MRT/Blueprints/BP_ModularRoadTool.BP_ModularRoadTool_C'!
+[2019.09.21-22.16.56:502][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.21-22.16.59:426][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.09.21-22.16.59:430][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.21-22.16.59:430][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2019.09.21-22.16.59:430][  0]LogFileHelpers: Loading map 'LevelDemo_Sunny' took 47.057
+[2019.09.21-22.16.59:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.17.00:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.17.00:088][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.17.00:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.17.00:191][  0]LogCollectionManager: Loaded 0 collections in 0.002779 seconds
+[2019.09.21-22.17.00:371][  0]LogFileCache: Scanning file cache for directory 'F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Saved/Collections/' took 0.00s
+[2019.09.21-22.17.00:371][  0]LogFileCache: Scanning file cache for directory 'F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Content/Developers/SrivatsavRaghu/Collections/' took 0.00s
+[2019.09.21-22.17.00:371][  0]LogFileCache: Scanning file cache for directory 'F:/others/hackathons/YAH 2k19/Drowsiness_Detection/MRT 4.23/Content/Collections/' took 0.00s
+[2019.09.21-22.17.00:371][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.21-22.17.00:382][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2865 classes and 683 folders.
+[2019.09.21-22.17.00:598][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.21-22.17.01:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.09.21-22.17.01:597][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.09.21-22.17.01:828][  0]LogSlate: Took 0.018315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.21-22.17.01:841][  0]LogSlate: Took 0.008369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.21-22.17.01:867][  0]LogSlate: Took 0.017555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.21-22.17.01:966][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2019.09.21-22.17.02:265][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.09.21-22.17.02:806][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.21-22.17.02:806][  0]LogLoad: (Engine Initialization) Total time: 64.55 seconds
+[2019.09.21-22.17.02:806][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.21-22.17.02:848][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.09.21-22.17.02:848][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.09.21-22.17.02:849][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.09.21-22.17.02:849][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.09.21-22.17.02:849][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.09.21-22.17.02:911][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.21-22.17.03:056][  0]LogSlate: Took 0.027255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.21-22.17.03:973][ 13]LogAssetRegistry: Asset discovery search completed in 57.8045 seconds
+[2019.09.21-22.17.03:980][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.09.21-22.17.03:980][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2019.09.21-22.17.09:021][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.21-22.17.09:108][121]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-22.17.09:296][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.17.09:307][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-22.17.09:324][121]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 9:17:09 am)
+[2019.09.21-22.17.09:348][121]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.21-22.17.09:394][121]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-22.17.10:369][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.974355s)
+[2019.09.21-22.17.10:381][121]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-22.17.10:423][121]LogPlayLevel: PIE: World Init took: (0.041900s)
+[2019.09.21-22.17.10:423][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (1.028553s)
+[2019.09.21-22.17.10:452][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.09.21-22.17.10:500][121]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-22.17.10:520][121]LogInit: FAudioDevice initialized.
+[2019.09.21-22.17.11:919][121]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-22.17.12:299][121]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 0) at 2019.09.22-03.47.12
+[2019.09.21-22.17.12:460][121]LogWorld: Bringing up level for play took: 0.288381
+[2019.09.21-22.17.12:499][121]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.09.21-22.17.12:917][121]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2019.09.21-22.17.13:642][121]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 4.487
+[2019.09.21-22.17.13:643][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.24.36:750][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.21-22.24.38:402][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.24.38:491][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.24.38:491][439]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-22.24.38:493][439]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-22.24.38:693][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.21-22.24.38:718][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.24.38:896][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-22.24.38:935][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.09.21-22.24.38:952][440]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.09.21-22.25.50:588][863]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-22.25.50:597][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.25.50:597][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-22.25.50:597][863]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 9:25:50 am)
+[2019.09.21-22.25.50:598][863]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-22.25.52:003][863]LogPlayLevel: PIE: StaticDuplicateObject took: (1.404703s)
+[2019.09.21-22.25.52:005][863]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-22.25.52:056][863]LogPlayLevel: PIE: World Init took: (0.053043s)
+[2019.09.21-22.25.52:056][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (1.458184s)
+[2019.09.21-22.25.52:114][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.21-22.25.52:132][863]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-22.25.52:161][863]LogInit: FAudioDevice initialized.
+[2019.09.21-22.25.52:169][863]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-22.25.52:311][863]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 60) at 2019.09.22-03.55.52
+[2019.09.21-22.25.52:335][863]LogWorld: Bringing up level for play took: 0.163437
+[2019.09.21-22.25.52:335][863]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.09.21-22.25.52:340][863]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 1.184
+[2019.09.21-22.25.52:340][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-22.55.02:888][141]LogHttp: Warning: 000001E8AAF89580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-22.55.02:958][141]LogHttp: Warning: 000001E8AAF89580: request failed, libcurl error: 0 (No error)
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.175.157.122) port 443 (#16))
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-22.55.02:959][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-22.55.02:960][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 7 (Closing connection 16)
+[2019.09.21-22.55.02:960][141]LogHttp: Warning: 000001E8AAF89580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-22.55.03:214][142]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-22.57.09:859][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.21-23.01.03:133][589]LogHttp: Warning: 000001E8AAF89940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-23.01.03:134][589]LogHttp: Warning: 000001E8AAF89940: request failed, libcurl error: 0 (No error)
+[2019.09.21-23.01.03:134][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-23.01.03:136][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2019.09.21-23.01.03:136][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.85.100) port 443 (#18))
+[2019.09.21-23.01.03:136][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-23.01.03:136][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-23.01.03:136][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-23.01.03:137][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-23.01.03:139][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 7 (Closing connection 18)
+[2019.09.21-23.01.03:139][589]LogHttp: Warning: 000001E8AAF89940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-23.01.03:483][590]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-23.07.03:029][743]LogHttp: Warning: 000001E8AAF8B600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-23.07.03:029][743]LogHttp: Warning: 000001E8AAF8B600: request failed, libcurl error: 0 (No error)
+[2019.09.21-23.07.03:029][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-23.07.03:029][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2019.09.21-23.07.03:029][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.85.100) port 443 (#20))
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 7 (Closing connection 20)
+[2019.09.21-23.07.03:080][743]LogHttp: Warning: 000001E8AAF8B600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-23.07.03:091][744]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-23.07.17:694][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.21-23.07.17:771][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.07.17:842][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.07.17:842][971]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.07.17:858][971]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-23.07.18:278][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.21-23.07.18:279][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.07.18:390][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.07.18:737][971]LogUObjectHash: Compacting FUObjectHashTables data took  31.05ms
+[2019.09.21-23.07.20:052][972]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.21-23.07.38:475][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-23.07.38:609][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.07.38:609][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-23.07.38:623][268]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 10:07:38 am)
+[2019.09.21-23.07.38:641][268]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.07.50:520][268]LogPlayLevel: PIE: StaticDuplicateObject took: (11.878217s)
+[2019.09.21-23.07.50:651][268]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-23.07.50:665][268]LogPlayLevel: PIE: World Init took: (0.144982s)
+[2019.09.21-23.07.50:665][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (12.024263s)
+[2019.09.21-23.07.50:741][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.09.21-23.07.50:827][268]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-23.07.50:945][268]LogInit: FAudioDevice initialized.
+[2019.09.21-23.07.51:007][268]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-23.07.51:272][268]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 60) at 2019.09.22-04.37.51
+[2019.09.21-23.07.51:301][268]LogWorld: Bringing up level for play took: 0.287221
+[2019.09.21-23.07.51:301][268]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.09.21-23.07.51:463][268]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 12.308
+[2019.09.21-23.07.51:464][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.08.02:246][432]Set new viewmode: Wireframe
+[2019.09.21-23.08.08:539][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.21-23.08.16:222][924]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.08.17:019][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.08.17:019][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.08.17:019][950]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.08.17:021][950]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-23.08.17:085][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.21-23.08.17:085][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.08.17:143][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.08.17:169][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.21-23.08.17:182][951]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.21-23.08.52:263][989]LogEditorViewport: Clicking on Actor (LMB): BP_RoadConn_4Way_C (BP_RoadConnector)
+[2019.09.21-23.08.55:110][992]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.12.58:306][887]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-23.12.58:314][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.12.58:364][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-23.12.58:364][887]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 10:12:58 am)
+[2019.09.21-23.12.58:364][887]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.12.59:956][887]LogPlayLevel: PIE: StaticDuplicateObject took: (1.591308s)
+[2019.09.21-23.13.00:048][887]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-23.13.00:049][887]LogPlayLevel: PIE: World Init took: (0.093323s)
+[2019.09.21-23.13.00:049][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (1.685117s)
+[2019.09.21-23.13.00:127][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.09.21-23.13.00:180][887]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-23.13.00:206][887]LogInit: FAudioDevice initialized.
+[2019.09.21-23.13.00:219][887]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-23.13.00:377][887]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 0) at 2019.09.22-04.43.00
+[2019.09.21-23.13.00:399][887]LogWorld: Bringing up level for play took: 0.178240
+[2019.09.21-23.13.00:400][887]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.09.21-23.13.00:422][887]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 1.267
+[2019.09.21-23.13.00:422][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: request failed, libcurl error: 0 (No error)
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.93.59) port 443 (#22))
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-23.13.03:111][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-23.13.03:112][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-23.13.03:112][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-23.13.03:112][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 7 (Closing connection 22)
+[2019.09.21-23.13.03:112][925]LogHttp: Warning: 000001E8AAE0BB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-23.13.03:175][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-23.13.17:825][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.16.33:288][165]LogSlate: Took 0.016464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.21-23.18.41:236][177]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.22.03:316][275]LogHttp: Warning: 000001E8AAE69800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-23.22.03:316][275]LogHttp: Warning: 000001E8AAE69800: request failed, libcurl error: 0 (No error)
+[2019.09.21-23.22.03:316][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-23.22.03:316][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 1 (Re-using existing connection! (#25) with host datarouter.ol.epicgames.com)
+[2019.09.21-23.22.03:316][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.97.25) port 443 (#25))
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 7 (Closing connection 25)
+[2019.09.21-23.22.03:317][275]LogHttp: Warning: 000001E8AAE69800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-23.22.03:650][276]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-23.22.31:482][681]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.22.38:102][789]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.23.26:837][818]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.23.35:757][878]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.23.59:922][361]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.25.41:496][564]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.25.45:645][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.25.45:665][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.25.45:665][647]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.25.45:667][647]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-23.25.45:717][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.21-23.25.45:717][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.25.45:778][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.25.45:802][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.09.21-23.25.45:817][648]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.21-23.25.47:077][655]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-23.25.47:086][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.25.47:086][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-23.25.47:088][655]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 10:25:47 am)
+[2019.09.21-23.25.47:088][655]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.25.47:937][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.848224s)
+[2019.09.21-23.25.47:938][655]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-23.25.47:938][655]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2019.09.21-23.25.47:938][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (0.850483s)
+[2019.09.21-23.25.47:969][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.21-23.25.47:978][655]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-23.25.48:011][655]LogInit: FAudioDevice initialized.
+[2019.09.21-23.25.48:022][655]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-23.25.48:137][655]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 0) at 2019.09.22-04.55.48
+[2019.09.21-23.25.48:163][655]LogWorld: Bringing up level for play took: 0.140202
+[2019.09.21-23.25.48:164][655]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.09.21-23.25.48:169][655]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 1.014
+[2019.09.21-23.25.48:169][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.26.41:504][420]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.27.08:621][972]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.28.11:259][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.28.44:820][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.21-23.29.08:448][968]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.30.29:321][270]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.30.36:374][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.30.36:374][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.30.36:374][310]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.30.36:376][310]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.21-23.30.36:455][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.21-23.30.36:456][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.30.36:522][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.21-23.30.36:545][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.09.21-23.30.36:559][311]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.21-23.30.47:034][447]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.21-23.30.47:046][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.30.47:046][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.21-23.30.47:046][447]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 10:30:47 am)
+[2019.09.21-23.30.47:046][447]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.21-23.30.47:924][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.877851s)
+[2019.09.21-23.30.47:925][447]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.21-23.30.47:926][447]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2019.09.21-23.30.47:926][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (0.879711s)
+[2019.09.21-23.30.47:956][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.09.21-23.30.47:967][447]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.21-23.30.48:000][447]LogInit: FAudioDevice initialized.
+[2019.09.21-23.30.48:012][447]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.21-23.30.48:131][447]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 0) at 2019.09.22-05.00.48
+[2019.09.21-23.30.48:156][447]LogWorld: Bringing up level for play took: 0.142228
+[2019.09.21-23.30.48:156][447]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.09.21-23.30.48:164][447]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 1.009
+[2019.09.21-23.30.48:164][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.21-23.31.23:869][924]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.32.49:798][948]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: request failed, libcurl error: 0 (No error)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#30))
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 7 (Closing connection 30)
+[2019.09.21-23.36.03:145][686]LogHttp: Warning: 000001E8AE244A40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.21-23.36.03:146][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.21-23.36.17:669][740]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-00.26.16:496][433]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.09.22-00.33.27:533][700]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-00.35.03:040][ 45]LogHttp: Warning: 000001E8AE245BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-00.35.03:041][ 45]LogHttp: Warning: 000001E8AE245BC0: request failed, libcurl error: 0 (No error)
+[2019.09.22-00.35.03:041][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-00.35.03:121][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 1 (Re-using existing connection! (#35) with host datarouter.ol.epicgames.com)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.204.243.49) port 443 (#35))
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 7 (Closing connection 35)
+[2019.09.22-00.35.03:122][ 45]LogHttp: Warning: 000001E8AE245BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-00.35.03:375][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-00.43.03:475][478]LogHttp: Warning: 000001E8AE246E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-00.43.03:475][478]LogHttp: Warning: 000001E8AE246E80: request failed, libcurl error: 0 (No error)
+[2019.09.22-00.43.03:475][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 1 (Re-using existing connection! (#38) with host datarouter.ol.epicgames.com)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.239.133) port 443 (#38))
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 7 (Closing connection 38)
+[2019.09.22-00.43.03:477][478]LogHttp: Warning: 000001E8AE246E80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-00.43.03:478][478]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.09.03:240][172]LogHttp: Warning: 000001E8AAE0B9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.09.03:241][172]LogHttp: Warning: 000001E8AAE0B9C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 1 (Re-using existing connection! (#49) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.123.19) port 443 (#49))
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.09.03:604][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.09.03:605][172]LogHttp: Warning: 000001E8AAE0B9C0: libcurl info message cache 7 (Closing connection 49)
+[2019.09.22-01.09.03:605][172]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.29.03:174][751]LogHttp: Warning: 000001E8AAE0AE80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.29.03:174][751]LogHttp: Warning: 000001E8AAE0AE80: request failed, libcurl error: 0 (No error)
+[2019.09.22-01.29.03:174][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 1 (Re-using existing connection! (#57) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.139.142) port 443 (#57))
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.29.03:175][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 7 (Closing connection 57)
+[2019.09.22-01.29.03:220][751]LogHttp: Warning: 000001E8AAE0AE80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-01.29.03:513][752]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.35.03:162][825]LogHttp: Warning: 000001E8AAE09BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.35.03:162][825]LogHttp: Warning: 000001E8AAE09BC0: request failed, libcurl error: 0 (No error)
+[2019.09.22-01.35.03:163][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.35.03:163][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 1 (Re-using existing connection! (#59) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.35.03:163][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.250.173) port 443 (#59))
+[2019.09.22-01.35.03:164][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.35.03:164][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-01.35.03:165][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.35.03:165][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.35.03:165][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 7 (Closing connection 59)
+[2019.09.22-01.35.03:165][825]LogHttp: Warning: 000001E8AAE09BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-01.35.03:497][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.41.03:199][898]LogHttp: Warning: 000001E8AAED1300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: request failed, libcurl error: 0 (No error)
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.58.29) port 443 (#61))
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.41.03:200][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-01.41.03:201][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.41.03:201][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.41.03:201][898]LogHttp: Warning: 000001E8AAED1300: libcurl info message cache 7 (Closing connection 61)
+[2019.09.22-01.41.03:201][898]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.49.03:159][328]LogHttp: Warning: 000001E8AAED0180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.49.03:159][328]LogHttp: Warning: 000001E8AAED0180: request failed, libcurl error: 0 (No error)
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 1 (Re-using existing connection! (#64) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.3.123) port 443 (#64))
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-01.49.03:160][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.49.03:161][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.49.03:161][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 7 (Closing connection 64)
+[2019.09.22-01.49.03:161][328]LogHttp: Warning: 000001E8AAED0180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-01.49.03:162][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-01.58.03:096][937]LogHttp: Warning: 000001E8AAED0680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: request failed, libcurl error: 0 (No error)
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 1 (Re-using existing connection! (#67) with host datarouter.ol.epicgames.com)
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.139.142) port 443 (#67))
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-01.58.03:097][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-01.58.03:098][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-01.58.03:098][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-01.58.03:098][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 7 (Closing connection 67)
+[2019.09.22-01.58.03:098][937]LogHttp: Warning: 000001E8AAED0680: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-01.58.03:429][938]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.04.03:389][ 11]LogHttp: Warning: 000001E8AAED0B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.04.03:390][ 11]LogHttp: Warning: 000001E8AAED0B80: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.04.03:390][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.04.03:390][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 1 (Re-using existing connection! (#69) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.04.03:391][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.237.224) port 443 (#69))
+[2019.09.22-02.04.03:391][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.04.03:391][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.04.03:392][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.04.03:392][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.04.03:392][ 11]LogHttp: Warning: 000001E8AAED0B80: libcurl info message cache 7 (Closing connection 69)
+[2019.09.22-02.04.03:722][ 12]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.10.03:103][ 83]LogHttp: Warning: 000001E8AAED1580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.10.03:103][ 83]LogHttp: Warning: 000001E8AAED1580: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 1 (Re-using existing connection! (#71) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.48.131) port 443 (#71))
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.10.03:104][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.10.03:105][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.10.03:106][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 7 (Closing connection 71)
+[2019.09.22-02.10.03:106][ 83]LogHttp: Warning: 000001E8AAED1580: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.10.03:440][ 84]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.16.03:041][156]LogHttp: Warning: 000001E8AD8C1A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 1 (Re-using existing connection! (#73) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.17.106.84) port 443 (#73))
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.16.03:043][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.16.03:045][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.16.03:045][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 7 (Closing connection 73)
+[2019.09.22-02.16.03:045][156]LogHttp: Warning: 000001E8AD8C1A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.16.03:045][156]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.21.48:229][552]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-02.22.02:276][892]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-02.23.30:414][456]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-02.23.33:193][496]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-02.23.34:118][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-02.23.34:200][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-02.23.34:201][514]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.22-02.23.34:209][514]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-02.23.34:899][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-02.23.34:901][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-02.23.35:626][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-02.23.36:898][514]LogUObjectHash: Compacting FUObjectHashTables data took  62.56ms
+[2019.09.22-02.23.45:261][515]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.22-02.23.47:750][539]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-02.23.47:776][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-02.23.47:776][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-02.23.47:777][539]PIE: New page: PIE session: LevelDemo_Sunny (22-Sep-2019 1:23:47 pm)
+[2019.09.22-02.23.47:777][539]LogPlayLevel: Creating play world package: /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.22-02.23.51:989][539]LogPlayLevel: PIE: StaticDuplicateObject took: (4.194351s)
+[2019.09.22-02.23.52:024][539]LogAIModule: Creating AISystem for world LevelDemo_Sunny
+[2019.09.22-02.23.52:026][539]LogPlayLevel: PIE: World Init took: (0.036404s)
+[2019.09.22-02.23.52:027][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny to /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny (4.250322s)
+[2019.09.22-02.23.52:107][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.09.22-02.23.52:176][539]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.22-02.23.52:246][539]LogInit: FAudioDevice initialized.
+[2019.09.22-02.23.52:267][539]LogLoad: Game class is 'VehicleGameMode_C'
+[2019.09.22-02.23.52:675][539]LogWorld: Bringing World /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny.LevelDemo_Sunny up for play (max tick rate 60) at 2019.09.22-07.53.52
+[2019.09.22-02.23.52:719][539]LogWorld: Bringing up level for play took: 0.447109
+[2019.09.22-02.23.52:720][539]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.09.22-02.23.52:748][539]PIE: Play in editor start time for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny 5.6
+[2019.09.22-02.23.52:749][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-02.26.56:882][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-02.31.03:406][450]LogHttp: Warning: 000001E8AE247B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.31.03:406][450]LogHttp: Warning: 000001E8AE247B00: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.31.03:407][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.31.03:407][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 1 (Re-using existing connection! (#79) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.31.03:407][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.58.29) port 443 (#79))
+[2019.09.22-02.31.03:407][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.31.03:407][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.31.03:408][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.31.03:408][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.31.03:408][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 7 (Closing connection 79)
+[2019.09.22-02.31.03:408][450]LogHttp: Warning: 000001E8AE247B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.31.03:408][450]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.37.02:992][523]LogHttp: Warning: 000001E8AD8C1300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.37.02:993][523]LogHttp: Warning: 000001E8AD8C1300: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.37.02:993][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.37.02:993][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 1 (Re-using existing connection! (#81) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.37.02:993][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.55.229.147) port 443 (#81))
+[2019.09.22-02.37.02:993][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.37.02:994][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.37.02:994][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.37.02:994][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.37.02:994][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 7 (Closing connection 81)
+[2019.09.22-02.37.02:994][523]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.37.03:331][524]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.48.03:186][543]LogHttp: Warning: 000001E8AD8C1300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.48.03:187][543]LogHttp: Warning: 000001E8AD8C1300: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.48.03:188][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.48.03:188][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 1 (Re-using existing connection! (#85) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.48.03:188][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.48.131) port 443 (#85))
+[2019.09.22-02.48.03:188][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.48.03:189][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.48.03:189][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.48.03:189][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.48.03:189][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 7 (Closing connection 85)
+[2019.09.22-02.48.03:189][543]LogHttp: Warning: 000001E8AD8C1300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.48.03:521][544]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-02.54.03:229][616]LogHttp: Warning: 000001E8AD7F79C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-02.54.03:230][616]LogHttp: Warning: 000001E8AD7F79C0: request failed, libcurl error: 0 (No error)
+[2019.09.22-02.54.03:230][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-02.54.03:230][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 1 (Re-using existing connection! (#87) with host datarouter.ol.epicgames.com)
+[2019.09.22-02.54.03:230][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.51.163) port 443 (#87))
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 7 (Closing connection 87)
+[2019.09.22-02.54.03:231][616]LogHttp: Warning: 000001E8AD7F79C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-02.54.03:232][616]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-03.05.03:093][582]LogHttp: Warning: 000001E8AD7F4180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: request failed, libcurl error: 0 (No error)
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 1 (Re-using existing connection! (#91) with host datarouter.ol.epicgames.com)
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#91))
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-03.05.03:094][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-03.05.03:097][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-03.05.03:098][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-03.05.03:098][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 7 (Closing connection 91)
+[2019.09.22-03.05.03:098][582]LogHttp: Warning: 000001E8AD7F4180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-03.05.03:098][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-03.14.03:068][191]LogHttp: Warning: 000001E8AD7F5F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: request failed, libcurl error: 0 (No error)
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 1 (Re-using existing connection! (#94) with host datarouter.ol.epicgames.com)
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.108.254) port 443 (#94))
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-03.14.03:069][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-03.14.03:070][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 7 (Closing connection 94)
+[2019.09.22-03.14.03:070][191]LogHttp: Warning: 000001E8AD7F5F80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-03.14.03:404][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-03.20.03:132][264]LogHttp: Warning: 000001E8AD7F6AC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-03.20.03:133][264]LogHttp: Warning: 000001E8AD7F6AC0: request failed, libcurl error: 0 (No error)
+[2019.09.22-03.20.03:133][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-03.20.03:133][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 1 (Re-using existing connection! (#96) with host datarouter.ol.epicgames.com)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.74.77) port 443 (#96))
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 7 (Closing connection 96)
+[2019.09.22-03.20.03:134][264]LogHttp: Warning: 000001E8AD7F6AC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.22-03.20.03:136][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-04.03.49:947][195]LogHttp: Warning: 000001E8AD7F7240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.22-04.03.49:947][195]LogHttp: Warning: 000001E8AD7F7240: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.09.22-04.03.49:947][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8e80fff70 [can pipeline])
+[2019.09.22-04.03.49:947][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 1 (Re-using existing connection! (#98) with host datarouter.ol.epicgames.com)
+[2019.09.22-04.03.49:947][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.227.136.220) port 443 (#98))
+[2019.09.22-04.03.49:948][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.22-04.03.49:948][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.09.22-04.03.49:948][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.22-04.03.49:948][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.22-04.03.49:948][195]LogHttp: Warning: 000001E8AD7F7240: libcurl info message cache 7 (Closing connection 98)
+[2019.09.22-04.03.50:281][196]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C30CC12-4698-C136-DBA8-08A416E0E0A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=1a04bfea4054d1a7cdc32983e4ed6ebe%7Cb0250071157645d481bd70b960c80dd0%7C3a95b41d-4aa1-44e7-ada4-142cd2da4dc1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.22-04.06.44:620][639]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.22-04.06.55:465][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-04.06.55:467][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-04.06.55:467][828]LogWorld: BeginTearingDown for /Game/MRT/Maps/UEDPIE_0_LevelDemo_Sunny
+[2019.09.22-04.06.55:468][828]LogWorld: UWorld::CleanupWorld for LevelDemo_Sunny, bSessionEnded=true, bCleanupResources=true
+[2019.09.22-04.06.55:646][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-04.06.55:647][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel' has LevelScriptBlueprint '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny' with GeneratedClass '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny_C' with ClassGeneratedBy '/Game/MRT/Maps/LevelDemo_Sunny.LevelDemo_Sunny:PersistentLevel.LevelDemo_Sunny'
+[2019.09.22-04.06.55:813][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-04.06.55:870][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.09.22-04.06.55:898][829]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.22-04.07.31:352][264]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.09.22-04.09.40:987][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_ModularRoadTool_C (BP_ModularRoadTool119278)
+[2019.09.22-04.09.44:381][132]LogEditorViewport: Clicking on Actor (LMB): BP_ModularRoadTool_C (BP_ModularRoadTool77692)
+[2019.09.22-04.09.48:024][181]LogEditorViewport: Clicking on Actor (LMB): BP_RoadConn_4Way_C (BP_RoadConnector2)
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SyncInterval 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.Width 24
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.Height 57
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.OutputWindow 000000000028094C
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.09.22-04.10.03:674][400]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.09.22-04.10.03:683][400]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:371 
+ with error E_INVALIDARG
+[2019.09.22-04.10.03:737][400]LogWindows: Windows GetLastError: The operation completed successfully. (0)
