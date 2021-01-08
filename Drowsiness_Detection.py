@@ -19,13 +19,13 @@ def eye_aspect_ratio(eye):
         C = distance.euclidean(eye[0], eye[3])
         ear = (A + B) / (2.0 * C)
         return ear
-account_sid = 'ACcbb7cc778beae520419a15810468fbb4'
-auth_token = 'f3c6daca50c2a836e0070e21cdb89548'
+account_sid = 'Your twilio account_sid'
+auth_token = 'Your twilio auth_token'
 client = Client(account_sid, auth_token)
 thresh = 0.25
 frame_check = 20
 detect = dlib.get_frontal_face_detector()
-predict = dlib.shape_predictor("F:\others\hackathons\YAH 2k19\Drowsiness_Detection\shape_predictor_68_face_landmarks.dat")# Dat file is the crux of the code
+predict = dlib.shape_predictor("Path of your shape predictor model file") # Dat file is the crux of the code
 
 (lStart, lEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["left_eye"]
 (rStart, rEnd) = face_utils.FACIAL_LANDMARKS_68_IDXS["right_eye"]
@@ -68,8 +68,8 @@ while True:
                                 keyboard.release('w')
                                 call = client.calls.create(
                                                 url='http://demo.twilio.com/docs/voice.xml',
-                                                to='+919840565890',
-                                                from_='+16692362068'
+                                                to='the customers mobile number',
+                                                from_='your twilio phone number'
                                         )
                                 print(call.sid)
                                 conn.execute("UPDATE DATA set SLEPT = 1 where ID = 789")
