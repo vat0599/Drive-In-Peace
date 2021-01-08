@@ -12,4 +12,3 @@ Similary, it is possible that while driving some shiny objects might block the v
 https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
 - 
 
-This repo will be edited soon
