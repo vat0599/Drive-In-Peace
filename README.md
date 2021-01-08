@@ -14,9 +14,7 @@ Similary, it is possible that while driving some shiny objects might block the v
 - Now that your setup is ready, you can finally run the drowsiness_detection.py code and switch to the simulation window. A web cam feed along with the car movement can be seen and when you sleep or bring in flashlights nearby, you can see the effect of it in the car's speed along with the alert window.
 
 ## How this works?
-The code works on two parts:
-
-First being the ability for the system to figure out whether a person is sleeping or not. Second being able to detect glare from the outside environment.
+The code works on two parts:- First being the ability for the system to figure out whether a person is sleeping or not. Second being able to detect glare from the outside environment.
 
 In the first case, we use the concept of EAR (Eye Aspect Ratio) in determining whether a person's eye is closed or not.
 
@@ -30,7 +28,7 @@ Now the problem is that the program will end up counting blinking of eye as slee
 
 To address the second problem of glare detection, we use gaussian blur to find out the brightest point in a given frame, and if this frame has brightness above the threshold and is within the driving view, then it is considered a glare and the vehicle speed is appropriately reduced. We automatically put a circle which points to the glare region.
 
-## Some output screenshots while running the code:
+## Some output screenshots while running the code
 Now looking at the outputs, we see that both the eyes are continuosly monitored and the car is moving smoothly over the road.
 
 <img src="https://user-images.githubusercontent.com/41820878/104029372-ea028780-51ef-11eb-975e-7e7d8b93e447.png">
@@ -46,3 +44,6 @@ In this output below, we see that when a shiny object gets in the view of road, 
 The final image below is just a small database of the drivers of the companies, and also shows whether anyone slept during their journey. This can be helpful in monitoring their employees and can also improve the quality and safety of the trips.
 
 <img src="https://user-images.githubusercontent.com/41820878/104029791-6dbc7400-51f0-11eb-8736-5c54e9157bd8.png">
+
+## Contributions
+Do not hesitate to contribute by [filling an issue](https://github.com/vat0599/Drive-In-Peace/issues) or [a PR](https://github.com/vat0599/Drive-In-Peace/pulls) !
